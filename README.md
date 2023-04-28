@@ -8,4 +8,4 @@ healthcare facilities
 
 ## Digital Map
 
-[Hospital Accessibility Map](https://utoronto.maps.arcgis.com/apps/instant/minimalist/index.html?appid=5c396af85939411abe4782d205ad7e01&center=-127.007,56.3935&level=6)
+[Hospital Accessibility Map](https://arcg.is/11H9SK0)
