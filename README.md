@@ -8,4 +8,4 @@ healthcare facilities
 
 ## Digital Map
 
-[Hospital Accessibility Map] (https://arcg.is/11H9SK0)
+[Hospital Accessibility Map](https://arcg.is/11H9SK0)
