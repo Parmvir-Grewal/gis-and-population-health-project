@@ -5,7 +5,3 @@ network data sets, and census data to develop a comprehensive understanding of t
 
 ● Conducted drive time analysis to identify areas of the region with the greatest unmet needs, in a push for the development of new
 healthcare facilities
-
-## Digital Map
-
-[Hospital Accessibility Map](https://arcg.is/11H9SK0)
