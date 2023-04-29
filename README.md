@@ -24,5 +24,8 @@ The research project yielded the following results:
 - A comprehensive understanding of the transportation networks and demographics of the region
 - Development of a set of recommendations for improving hospital accessibility in the region, including the development of new healthcare facilities in underserved areas
 
+## Web Map
+[View Map](https://arcg.is/1TH1rD)
+
 ## Conclusion
 The hospital accessibility research project has provided valuable insights into the healthcare access challenges in northern British Columbia. We hope that our findings and recommendations will be used by policymakers and healthcare organizations in the region to improve the accessibility of healthcare services for all residents.
